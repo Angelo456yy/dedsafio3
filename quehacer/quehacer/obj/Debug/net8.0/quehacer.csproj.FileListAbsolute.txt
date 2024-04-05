@@ -1,0 +1,14 @@
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\bin\Debug\net8.0\quehacer.exe
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\bin\Debug\net8.0\quehacer.deps.json
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\bin\Debug\net8.0\quehacer.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\bin\Debug\net8.0\quehacer.dll
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\bin\Debug\net8.0\quehacer.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\obj\Debug\net8.0\quehacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\obj\Debug\net8.0\quehacer.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\obj\Debug\net8.0\quehacer.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\obj\Debug\net8.0\quehacer.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\obj\Debug\net8.0\quehacer.dll
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\obj\Debug\net8.0\refint\quehacer.dll
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\obj\Debug\net8.0\quehacer.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\obj\Debug\net8.0\quehacer.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\desafio 3\quehacer\quehacer\obj\Debug\net8.0\ref\quehacer.dll

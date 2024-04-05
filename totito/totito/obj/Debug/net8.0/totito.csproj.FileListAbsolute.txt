@@ -1,0 +1,14 @@
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\obj\Debug\net8.0\totito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\obj\Debug\net8.0\totito.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\obj\Debug\net8.0\totito.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\obj\Debug\net8.0\totito.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\bin\Debug\net8.0\totito.exe
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\bin\Debug\net8.0\totito.deps.json
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\bin\Debug\net8.0\totito.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\bin\Debug\net8.0\totito.dll
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\bin\Debug\net8.0\totito.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\obj\Debug\net8.0\totito.dll
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\obj\Debug\net8.0\refint\totito.dll
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\obj\Debug\net8.0\totito.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\obj\Debug\net8.0\totito.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\desafio 3\totito\totito\obj\Debug\net8.0\ref\totito.dll

@@ -1,0 +1,14 @@
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\bin\Debug\net8.0\clientes.exe
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\bin\Debug\net8.0\clientes.deps.json
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\bin\Debug\net8.0\clientes.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\bin\Debug\net8.0\clientes.dll
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\bin\Debug\net8.0\clientes.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\obj\Debug\net8.0\clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\obj\Debug\net8.0\clientes.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\obj\Debug\net8.0\clientes.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\obj\Debug\net8.0\clientes.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\obj\Debug\net8.0\clientes.dll
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\obj\Debug\net8.0\refint\clientes.dll
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\obj\Debug\net8.0\clientes.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\obj\Debug\net8.0\clientes.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\desafio 3\clientes\clientes\obj\Debug\net8.0\ref\clientes.dll
